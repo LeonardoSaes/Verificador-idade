@@ -4,4 +4,4 @@ Site feito com HTML, CSS e JavaScript que verifica a idade digitada e mostra o c
 - feito durante aulas do Curso em Video
 - exercício para treinar JS
 
-[Link para o exercicio]() 
+[Link para o exercicio](https://leonardosaes.github.io/Verificador-idade/) 
